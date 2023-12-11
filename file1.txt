@@ -1,4 +1,5 @@
 conflict
+newlinebad
 
 456
 
